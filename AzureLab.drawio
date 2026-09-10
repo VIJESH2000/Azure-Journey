@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="hBS2Xr1p0QIn03H1WmDi">
+    <mxGraphModel dx="1022" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YfF9Pqhq3FPdXGITHWsL-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" value="Vijesh Shetty SUB" vertex="1">
+          <mxGeometry height="71" width="44" x="400" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YfF9Pqhq3FPdXGITHWsL-4" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" value="rg-azadmin-lab" vertex="1">
+          <mxGeometry height="64" width="68" x="388" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="YfF9Pqhq3FPdXGITHWsL-8" edge="1" parent="1" source="YfF9Pqhq3FPdXGITHWsL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YfF9Pqhq3FPdXGITHWsL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YfF9Pqhq3FPdXGITHWsL-6" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.region;fontStyle=1" value="Central India" vertex="1">
+          <mxGeometry height="54.300000000000004" width="47.400000000000006" x="444" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="YfF9Pqhq3FPdXGITHWsL-7" edge="1" parent="1" source="YfF9Pqhq3FPdXGITHWsL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="YfF9Pqhq3FPdXGITHWsL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
